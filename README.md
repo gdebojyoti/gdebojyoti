@@ -3,7 +3,7 @@
 <!-- ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gdebojyoti&theme=blue-green) -->
 
 #### Hi there 👋 Here is a random joke that'll make you laugh! 😂
-[Jokes Card](https://readme-jokes.vercel.app/api)
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 <!--
 **gdebojyoti/gdebojyoti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
